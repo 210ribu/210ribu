@@ -19,3 +19,6 @@ My name is **Dia Dicksy Aditya** From Indonesia, You can call me **Ksy**, and **
 
 
 ----
+**Visitor Count :**
+
+![Visitor Count](https://profile-counter.glitch.me/{210ribu}/count.svg)
